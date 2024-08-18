@@ -10,3 +10,4 @@
 Результат:
 Реализован проект на React + Redux Toolkit + antd.
 Вместо бэк использован файл FakeData.
+# antd-table
